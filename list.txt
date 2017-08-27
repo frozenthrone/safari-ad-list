@@ -3,3 +3,6 @@ www.cnbeta.com##.topContent
 www.cnbeta.com##.cnbeta-headlines
 www.cnbeta.com##.pageHeader
 www.cnbeta.com##.pageFooter
+www.cnbeta.com###cb_share
+www.cnbeta.com##.cnbeta-article-vote-tags
+
