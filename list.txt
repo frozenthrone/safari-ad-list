@@ -1,1 +1,5 @@
-##.cnbeta-home-side
+www.cnbeta.com##.cnbeta-home-side
+www.cnbeta.com##.topContent
+www.cnbeta.com##.cnbeta-headlines
+www.cnbeta.com##.pageHeader
+www.cnbeta.com##.pageFooter
