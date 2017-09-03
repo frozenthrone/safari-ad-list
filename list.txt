@@ -63,4 +63,4 @@ sspai.com###app > div > div.main > div > div.article-wrapper > div > section.aff
 sspai.com###app > div > div.main > div > div.article-wrapper > div > section.action-region
 sspai.com###app > div > div.main > div > div.article-wrapper > div > article > div.tags
 sspai.com###home > div.container > div.side
-
+sspai.com##.article-card> dt
