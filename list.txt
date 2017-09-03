@@ -8,6 +8,8 @@ www.cnbeta.com##.cnbeta-article-vote-tags
 
 
 
+
+bbs.feng.com##.wrap:nth-of-type(8) > div:nth-of-type(1)
 bbs.feng.com###forum_rules_68
 bbs.feng.com###forum_rules_19
 bbs.feng.com###forum_rules_224
@@ -33,3 +35,18 @@ bbs.feng.com##.hot-topic
 bbs.feng.com###footer
 bbs.feng.com###header
 bbs.feng.com##.discuz_index_ad
+bbs.feng.com##.user_info
+bbs.feng.com##.bottomBar
+bbs.feng.com###navigator > div.sub_nav
+bbs.feng.com###search_box
+bbs.feng.com##.quick_services
+bbs.feng.com##.header_wrap>div#header
+bbs.feng.com##.header_wrap>div#navigator
+www.feng.com##.footer_wrap
+www.feng.com###subNav
+www.feng.com###hot_spots
+www.feng.com###Recommended_news
+www.feng.com##.ad_90
+www.feng.com###gameChannel
+www.feng.com###softwareGames
+bbs.feng.com##tbody[id^="stickthread_"]
