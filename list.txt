@@ -49,3 +49,7 @@ www.feng.com##.ad_90
 www.feng.com###gameChannel
 www.feng.com###softwareGames
 bbs.feng.com##tbody[id^="stickthread_"]
+
+
+sspai.com###footer
+sspai.com##.related-article
