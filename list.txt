@@ -65,3 +65,14 @@ sspai.com###app > div > div.main > div > div.article-wrapper > div > article > d
 sspai.com###home > div.container > div.side
 sspai.com##.article-card> dt
 sspai.com###home > div.container > div.main > div.series-carousel-card
+
+
+
+
+avgle.com###wrapper > div.footer-container
+avgle.com##.col-sm-4.col-md-3.col-lg-12 > .well
+avgle.com##.row:nth-of-type(1) > .col-lg-12
+avgle.com##.overflow-hidden.m-t-10
+avgle.com##.well-filters.well
+avgle.com##.clearfix:nth-of-type(18)
+avgle.com###ps32-container
