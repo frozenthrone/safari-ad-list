@@ -64,3 +64,4 @@ sspai.com###app > div > div.main > div > div.article-wrapper > div > section.act
 sspai.com###app > div > div.main > div > div.article-wrapper > div > article > div.tags
 sspai.com###home > div.container > div.side
 sspai.com##.article-card> dt
+sspai.com###home > div.container > div.main > div.series-carousel-card
