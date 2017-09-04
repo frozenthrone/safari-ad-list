@@ -76,4 +76,4 @@ avgle.com##.overflow-hidden.m-t-10
 avgle.com##.well-filters.well
 avgle.com##.clearfix:nth-of-type(18)
 avgle.com###ps32-container
-avgle.com##.exo-ative-widget
+avgle.com##.exo-native-widget
