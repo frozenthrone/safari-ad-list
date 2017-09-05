@@ -92,3 +92,11 @@ www.xvideos.com###footer
 www.xvideos.com##.video-metadata
 www.xvideos.com###video-tabs
 www.xvideos.com##.mobile-only-hide
+
+
+
+www.pornhub.com##.footer-title
+www.pornhub.com##.footer
+www.pornhub.com##.linkGroup
+www.pornhub.com##.logos
+www.pornhub.com##.bottomNav
