@@ -100,3 +100,10 @@ www.pornhub.com##.footer
 www.pornhub.com##.linkGroup
 www.pornhub.com##.logos
 www.pornhub.com##.bottomNav
+www.youporn.com###network-bar
+www.youporn.com##.promo-message
+www.youporn.com###adblock_1
+www.youporn.com##footer
+www.youporn.com##.hot-videos-women-wrapper
+www.youporn.com##.videoCommentsTitle
+www.youporn.com###videoComments
