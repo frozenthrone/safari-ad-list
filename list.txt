@@ -100,6 +100,8 @@ www.pornhub.com##.footer
 www.pornhub.com##.linkGroup
 www.pornhub.com##.logos
 www.pornhub.com##.bottomNav
+
+
 www.youporn.com###network-bar
 www.youporn.com##.promo-message
 www.youporn.com###adblock_1
