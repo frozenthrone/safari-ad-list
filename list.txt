@@ -80,3 +80,15 @@ avgle.com##.exo-native-widget
 avgle.com###wrapper > div.container > div:nth-child(2) > div.col-lg-12.col-md-9.col-sm-8 > div.vote-box
 avgle.com###wrapper > div.container > div:nth-child(2) > div.col-lg-12.col-md-9.col-sm-8 > div.pull-left
 avgle.com###wrapper > div.container > div:nth-child(2) > div.col-lg-12.col-md-9.col-sm-8 > div.pull-right
+
+
+
+www.xvideos.com###mobile-menu
+www.xvideos.com###mobile-filters-menu
+www.xvideos.com###mobile-filters-menu
+www.xvideos.com##.mobile-hide
+www.xvideos.com###home-tabs
+www.xvideos.com###footer
+www.xvideos.com##.video-metadata
+www.xvideos.com###video-tabs
+www.xvideos.com##.mobile-only-hide
