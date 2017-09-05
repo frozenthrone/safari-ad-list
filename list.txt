@@ -54,7 +54,7 @@ bbs.feng.com##tbody[id^="stickthread_"]
 sspai.com###footer
 sspai.com##.related-article
 sspai.com##.top-banner
-
+sspai.com##.is-shown.open-in-app-button
 sspai.com###app > div > div.main > div > div.article-wrapper > div > article > img
 sspai.com###app > div > div.main > div > div.article-wrapper > div > article > h1
 sspai.com###app > div > div.main > div > div.article-wrapper > div > article > div.meta
