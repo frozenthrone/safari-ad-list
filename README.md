@@ -9,3 +9,5 @@
 * xvideos
 * pornhub
 * youporn
+* 优设
+* 优波
