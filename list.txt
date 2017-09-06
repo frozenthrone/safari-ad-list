@@ -125,3 +125,11 @@ www.ubuuk.com###im
 www.ubuuk.com##.notice
 www.ubuuk.com##.CooperationLink
 www.ubuuk.com##.footer
+
+
+www.xueui.cn##.top_banner
+www.xueui.cn##.d_banner
+www.xueui.cn##.widget_text
+www.xueui.cn##.d_textbanner
+www.xueui.cn##.d_postlist
+www.xueui.cn##.footer
