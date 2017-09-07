@@ -180,3 +180,13 @@ m.baidu.com###page-relative
 m.baidu.com###page-rcol
 m.baidu.com###page-ft
 www.baidu.com###page-ft
+
+
+
+m.leiphone.com###headerNav
+m.leiphone.com###slider
+m.leiphone.com##footer
+m.leiphone.com##.lph-nowSite
+m.leiphone.com##.detail-top
+m.leiphone.com##.fix-bar
+m.leiphone.com##.detail-top+div
