@@ -178,3 +178,5 @@ m.baidu.com###page-copyright
 m.baidu.com##.input-hidden+div
 m.baidu.com###page-relative
 m.baidu.com###page-rcol
+m.baidu.com###page-ft
+www.baidu.com###page-ft
