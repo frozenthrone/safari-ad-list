@@ -159,3 +159,9 @@ tpway.com##.td-more-articles-box
 tpway.com##.td-post-sharing
 tpway.com##.td-post-next-prev
 tpway.com##.td-a-rec
+
+
+m.mydrivers.com##.cpu-feeds-block
+m.mydrivers.com##.erwm
+m.mydrivers.com##.share
+m.mydrivers.com##.bdsharebuttonbox
