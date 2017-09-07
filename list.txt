@@ -148,3 +148,14 @@ freebiesbug.com###top-sponsor
 freebiesbug.com##.social-banner
 freebiesbug.com##.site-footer
 freebiesbug.com##.bottom-adv-banner
+
+
+tpway.com##.td-banner-wrap-full
+tpway.com##.wpb_single_image
+tpway.com##.td-ss-main-sidebar
+tpway.com##.td-footer-wrapper
+tpway.com##.td-sub-footer-container
+tpway.com##.td-more-articles-box
+tpway.com##.td-post-sharing
+tpway.com##.td-post-next-prev
+tpway.com##.td-a-rec
