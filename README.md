@@ -12,3 +12,5 @@
 * 优设
 * 优波
 * 学UI网
+* sketch.im
+* freebiesbug
