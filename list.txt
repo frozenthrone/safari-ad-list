@@ -165,3 +165,16 @@ m.mydrivers.com##.cpu-feeds-block
 m.mydrivers.com##.erwm
 m.mydrivers.com##.share
 m.mydrivers.com##.bdsharebuttonbox
+
+
+www.baidu.com##.blank-frame
+www.baidu.com###bottom
+www.baidu.com###banner_call+div
+www.baidu.com###page-copyright
+m.baidu.com##.blank-frame
+m.baidu.com###bottom
+m.baidu.com###banner_call+div
+m.baidu.com###page-copyright
+m.baidu.com##.input-hidden+div
+m.baidu.com###page-relative
+m.baidu.com###page-rcol
