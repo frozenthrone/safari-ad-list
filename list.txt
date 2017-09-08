@@ -215,3 +215,9 @@ www.geekpark.net##.topic-cover
 www.geekpark.net##.tags
 www.geekpark.net##.share-wrap
 www.geekpark.net##.more-news
+
+
+m.huxiu.com##.guide-box
+m.huxiu.com###slider
+m.huxiu.com##.article-content-title-box
+m.huxiu.com##.article-content-img
