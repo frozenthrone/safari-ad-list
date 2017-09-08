@@ -267,10 +267,7 @@ m.mtime.cn##.footer
 3g.163.com##.sub_box
 3g.163.com##.ne_rps
 3g.163.com##.single_text_wrap
-
-! 2017/9/8 下午1:44:32 https://3g.163.com/all/article/CTQI8L7U0001899N.html#offset=1
 3g.163.com##.doc-footer-wrapper
-
 3g.163.com##.footer
 3g.163.com##.topbar
 3g.163.com##.home>header
