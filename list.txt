@@ -221,3 +221,14 @@ m.huxiu.com##.guide-box
 m.huxiu.com###slider
 m.huxiu.com##.article-content-title-box
 m.huxiu.com##.article-content-img
+
+
+
+
+www.pingwest.com##.banner-wrap
+www.pingwest.com###app-download
+www.pingwest.com##.suggest-wrap
+www.pingwest.com##.post-img
+www.pingwest.com##.post-footer-wx
+www.pingwest.com##.post-bottom
+www.pingwest.com##.post-other
