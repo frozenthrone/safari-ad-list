@@ -119,6 +119,11 @@ www.uisdc.com###sidebar-secondary
 www.uisdc.com###footer
 www.uisdc.com##.section-title
 www.uisdc.com##.hfeed-more
+www.uisdc.com###bdshare
+www.uisdc.com##.keep_link
+www.uisdc.com##.similarity
+www.uisdc.com##.post-copyright
+||image.uisdc.com/wp-content/uploads/2017/08/2017-dkt-btbanner30.png
 
 
 www.ubuuk.com###im
