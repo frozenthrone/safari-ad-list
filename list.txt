@@ -309,3 +309,8 @@ airav.cc##.randomvedio
 airav.cc##.relative_post_div
 airav.cc###ContentPlaceHolder1_UpdatePanel2
 airav.cc###boot
+
+
+
+m.yuewz.com##.footer+div
+m.yuewz.com##.add_desktop+div
