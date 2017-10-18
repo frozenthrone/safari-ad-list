@@ -314,3 +314,9 @@ airav.cc###boot
 
 m.yuewz.com##.footer+div
 m.yuewz.com##.add_desktop+div
+
+
+cnzz.com/stat.
+cnzz.com^$third-party
+zzhszj.com^
+zzhszj.com^
