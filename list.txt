@@ -80,7 +80,7 @@ avgle.com##.exo-native-widget
 avgle.com###wrapper > div.container > div:nth-child(2) > div.col-lg-12.col-md-9.col-sm-8 > div.vote-box
 avgle.com###wrapper > div.container > div:nth-child(2) > div.col-lg-12.col-md-9.col-sm-8 > div.pull-left
 avgle.com###wrapper > div.container > div:nth-child(2) > div.col-lg-12.col-md-9.col-sm-8 > div.pull-right
-
+avgle.com##center
 
 
 www.xvideos.com###mobile-menu
