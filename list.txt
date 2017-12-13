@@ -92,8 +92,9 @@ www.xvideos.com###footer
 www.xvideos.com##.video-metadata
 www.xvideos.com###video-tabs
 www.xvideos.com##.mobile-only-hide
-
-
+www.xvideos.com###ad-header-mobile
+www.xvideos.com##.sdabox
+www.xvideos.com###ad-footer
 
 www.pornhub.com##.footer-title
 www.pornhub.com##.footer
