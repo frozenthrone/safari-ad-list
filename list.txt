@@ -85,6 +85,8 @@ avgle.com###blocked-if
 avgle.com###ps32-container
 avgle.com##img[src="http://isafe.pro/img/b_a.gif"]
 
+avgle.com###player_3x2_container > div
+
 www.xvideos.com###mobile-menu
 www.xvideos.com###mobile-filters-menu
 www.xvideos.com###mobile-filters-menu
