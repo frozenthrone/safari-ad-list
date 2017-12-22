@@ -118,6 +118,16 @@ www.youporn.com###videoComments
 
 www.youjizz.com##.top_pr
 www.youjizz.com###divExoLayerWrapper
+www.youjizz.com##.text_ads
+www.youjizz.com##.text_ad
+www.youjizz.com##.textAd
+www.youjizz.com##.text-ads
+www.youjizz.com##.text-ad-links
+www.youjizz.com##.text-ad
+www.youjizz.com##.pub_728x90
+www.youjizz.com##.pub_300x250m
+www.youjizz.com##.pub_300x250
+www.youjizz.com##.adsBox
 
 
 www.uisdc.com##.featured-wrapper
