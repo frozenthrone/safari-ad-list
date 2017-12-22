@@ -116,7 +116,8 @@ www.youporn.com##.hot-videos-women-wrapper
 www.youporn.com##.videoCommentsTitle
 www.youporn.com###videoComments
 
-
+www.youjizz.com##.top_pr
+www.youjizz.com###divExoLayerWrapper
 
 
 www.uisdc.com##.featured-wrapper
