@@ -339,3 +339,5 @@ cnzz.com/stat.
 cnzz.com^$third-party
 zzhszj.com^
 zzhszj.com^
+
+www.google.com###hplogo
