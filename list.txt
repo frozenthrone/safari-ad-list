@@ -51,20 +51,7 @@ www.feng.com###softwareGames
 bbs.feng.com##tbody[id^="stickthread_"]
 
 
-sspai.com###footer
-sspai.com##.related-article
-sspai.com##.top-banner
-sspai.com##.is-shown.open-in-app-button
-sspai.com###app > div > div.main > div > div.article-wrapper > div > article > img
-sspai.com###app > div > div.main > div > div.article-wrapper > div > article > h1
-sspai.com###app > div > div.main > div > div.article-wrapper > div > article > div.meta
-sspai.com###app > div.container>#header
-sspai.com###app > div > div.main > div > div.article-wrapper > div > section.affiliate-info
-sspai.com###app > div > div.main > div > div.article-wrapper > div > section.action-region
-sspai.com###app > div > div.main > div > div.article-wrapper > div > article > div.tags
-sspai.com###home > div.container > div.side
-sspai.com##.article-card> dt
-sspai.com###home > div.container > div.main > div.series-carousel-card
+
 
 
 
