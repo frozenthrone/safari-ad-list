@@ -348,3 +348,5 @@ www.waerfa.com###eight_x_two
 www.waerfa.com###top10
 www.waerfa.com###index-show-3
 www.waerfa.com###swiper
+www.waerfa.com##.relates_title
+www.waerfa.com##.relates
