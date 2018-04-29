@@ -102,6 +102,7 @@ www.xvideos.com##.mobile-only-hide
 www.xvideos.com###ad-header-mobile
 www.xvideos.com##.sdabox
 www.xvideos.com###ad-footer
+www.xvideos.com###nav
 
 www.pornhub.com##.footer-title
 www.pornhub.com##.footer
@@ -342,3 +343,4 @@ zzhszj.com^
 
 www.google.com###hplogo
 img.qdaily.com/uploads/20160725026790Msgaji5TilWhj7z4.jpg-w600
+www.waerfa.com##.random_article
