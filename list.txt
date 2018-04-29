@@ -344,3 +344,6 @@ zzhszj.com^
 www.google.com###hplogo
 img.qdaily.com/uploads/20160725026790Msgaji5TilWhj7z4.jpg-w600
 www.waerfa.com##.random_article
+www.waerfa.com###eight_x_two
+www.waerfa.com###top10
+www.waerfa.com###index-show-3
