@@ -350,3 +350,6 @@ www.waerfa.com###index-show-3
 www.waerfa.com###swiper
 www.waerfa.com##.relates_title
 www.waerfa.com##.relates
+
+
+www5.javmost.com###divExoLayerWrapper
