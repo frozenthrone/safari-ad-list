@@ -20,7 +20,8 @@ sspai.com###app > div > div.main > div > div.article-wrapper > div > article > d
 sspai.com###home > div.container > div.side
 sspai.com##.article-card> dt
 sspai.com###home > div.container > div.main > div.series-carousel-card
-
+sspai.com##.advertDiv
+sspai.com##.copyright
 
 bbs.feng.com##.wrap:nth-of-type(8) > div:nth-of-type(1)
 bbs.feng.com###forum_rules_68
