@@ -354,3 +354,14 @@ www.waerfa.com##.relates
 
 
 www5.javmost.com###divExoLayerWrapper
+
+bbc.com##.story-body__mini-info-list-and-share-row
+bbc.com###topic-tags
+bbc.com##.share share--lightweight show ghost-column
+bbc.com##.story-more
+bbc.com###comp-pattern-library
+bbc.com##.column--secondary
+bbc.com##.page__foot
+bbc.com###comp-pattern-library-2
+bbc.com###core-navigation
+bbc.com###orb-footer
