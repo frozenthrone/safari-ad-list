@@ -365,3 +365,4 @@ bbc.com##.page__foot
 bbc.com###comp-pattern-library-2
 bbc.com###core-navigation
 bbc.com###orb-footer
+bbc.com##.share
